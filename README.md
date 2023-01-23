@@ -16,10 +16,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-### ANDROID SETTINGS
+### SETTINGS UI
 <p float="center">
 
 <img src="https://user-images.githubusercontent.com/113604075/213981473-bc3e19a4-5005-49fa-8db4-e38ba2d66791.png" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/118955280/211778171-178e7708-2866-40d3-b3ad-de6cad11efe2.png" width=22% height=35%>
 
 </p>
 
@@ -30,16 +31,6 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://user-images.githubusercontent.com/118955280/211777019-5f8d9768-cf55-4cb9-9965-cbdf138bda28.png" width=22% height=35%>
 <img src="https://user-images.githubusercontent.com/118955280/211777030-34bf1998-fc6a-4220-83ce-2218b3a681d5.png" width=22% height=35%>
 <img src="https://user-images.githubusercontent.com/118955280/211777035-537fd64c-4ec6-492d-8931-3a0e80076ab5.png" width=22% height=35%>
-
-</p>
-
-
-### IOS SETTINGS
-
-
-<p float="center">
-
-<img src="https://user-images.githubusercontent.com/118955280/211778171-178e7708-2866-40d3-b3ad-de6cad11efe2.png" width=22% height=35%>
 
 </p>
 
