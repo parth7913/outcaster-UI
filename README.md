@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-### SETTINGS UI
+### SETTINGS UI(ANDROID/IOS)
 <p float="center">
 
 <img src="https://user-images.githubusercontent.com/113604075/213981473-bc3e19a4-5005-49fa-8db4-e38ba2d66791.png" width=22% height=35%>
