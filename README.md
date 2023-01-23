@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ### ANDROID SETTINGS
 <p float="center">
 
-<img src="https://user-images.githubusercontent.com/118955280/211776763-143861b1-7305-4266-95a9-4d412d238eae.png" width=22% height=35%>
+<img src="" width=22% height=35%>
 
 </p>
 
