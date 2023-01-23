@@ -1,4 +1,4 @@
-# outcaster
+# outcaster-UI
 
 A new Flutter project.
 
